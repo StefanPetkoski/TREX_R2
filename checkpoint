@@ -1,0 +1,2 @@
+model_checkpoint_path: "G:\\R2\\T_REX_AI_SMALL\\trex-18kTRY-Epochs 15-LearningRate 0.001-70x48_new_data.model"
+all_model_checkpoint_paths: "G:\\R2\\T_REX_AI_SMALL\\trex-18kTRY-Epochs 15-LearningRate 0.001-70x48_new_data.model"
